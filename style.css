@@ -1,0 +1,146 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/*HEADER*/
+
+.inicio{
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: px;
+}
+
+.hr{
+    margin-top: 15px;
+
+}
+
+/*PRINCIPAL*/
+
+
+/*CORREO*/
+
+
+.container{
+    width: 100%;
+    height: auto;
+}
+
+#num{
+    font-size: 18px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+.correo{
+    margin-top: 10px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.inp{
+    width: 98%;
+    height: 30px;
+    border: solid #20A3F2 2px;
+}
+
+/*CONTRA*/
+
+.con{
+
+    font-size: 18px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+.contra{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+.one{
+    color: blue;
+}
+
+.but{
+   width: 100%;
+   height: auto;
+   text-align: center;
+}
+
+.button{
+    width: 98%;
+    height: 35px;
+    margin-top: 10px;
+    background-color: #5693FE;
+    border-collapse: collapse;
+    color: white;
+}
+
+p{
+    padding-top: 15px;
+    padding-left: 5px;
+}
+
+/*esto es para las lineas de abajos*/
+
+
+.hrdiv{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.done{
+    width: 45%;
+    height: 1px;
+    background-color: black;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+
+.dtwo{
+    width: 45%;
+    height: 1px;
+    background-color: black;
+    margin-right: 10px;
+    margin-top: 40px;
+}
+
+.pcon{
+    margin-top: 15px;
+    margin-right: 5px;
+}
+
+
+.one{
+    margin-top: 5px;
+}
+
+
+#btn{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+.btn{
+    margin-top: 25px;
+    background-color: green;
+    color: white;
+    padding: 5px;
+}
+
+.Idiomas{
+    margin-top: 30px;
+}
+.color{
+ color: blue;
+}
