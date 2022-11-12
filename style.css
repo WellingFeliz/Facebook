@@ -31,7 +31,7 @@
 }
 
 #num{
-    font-size: 18px;
+    font-size: 16px;
     padding-top: 5px;
     padding-left: 5px;
 }
@@ -45,20 +45,23 @@
 
 .inp{
     width: 98%;
-    height: 30px;
+    height: 35px;
     border: solid #20A3F2 2px;
+    padding-left: 5px;
+    background-color: #F3F0F0;
 }
 
 /*CONTRA*/
 
 .con{
-
-    font-size: 18px;
+    margin-top: 3px;
+    font-size: 16px;
     padding-top: 5px;
     padding-left: 5px;
 }
 
 .contra{
+    margin-top: 3px;
     width: 100%;
     height: auto;
     text-align: center;
@@ -75,11 +78,13 @@
 
 .button{
     width: 98%;
-    height: 35px;
-    margin-top: 10px;
+    height: 40px;
+    margin-top: 5px;
     background-color: #5693FE;
-    border-collapse: collapse;
+    border: none;
     color: white;
+    font-size: 17px;
+    font-weight: bold;
 }
 
 p{
@@ -136,6 +141,8 @@ p{
     background-color: green;
     color: white;
     padding: 5px;
+    width: 180px;
+    height: 40px;
 }
 
 .Idiomas{
@@ -143,4 +150,28 @@ p{
 }
 .color{
  color: blue;
+}
+
+.form{
+  width: 100%;
+  max-width: 400px;
+  display: flex;
+  justify-content: center;
+}
+
+.contform{
+  width: 98%;
+  display: grid;
+  gap: 5px;
+  grid-auto-columns: 100%;
+}
+
+.pone{
+  margin-top: -5px;
+  font-size: 17px;
+}
+
+.ptwo{
+  margin-top: -6px;
+  font-size: 17px;
 }
